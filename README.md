@@ -3,7 +3,7 @@
   
   [Click on the project!!!!](https://mehmettas1.github.io/Weather-App-project/)
 
-# Project-005 : Weather_Condition_App (JS-05)
+# Project-005 : Weather_Condition_App (JS)
 
 ## Description
 Project aims to display current weather data of searched city around the world with fetching Weather Api data.
